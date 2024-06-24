@@ -117,6 +117,10 @@ CapsLock & Left::MoveCurrentWindowToLeftDesktop()
 +!Numpad8::MoveCurrentWindowToDesktop(8)
 +!Numpad9::MoveCurrentWindowToDesktop(9)
 
++!d::switchDesktopToRight()
++!a::switchDesktopToLeft()
++!s::switchDesktopToLastOpened()
+
 ; ^#Right::MoveCurrentWindowToRightDesktop()
 ; ^#Left::MoveCurrentWindowToLeftDesktop()
 
